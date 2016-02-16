@@ -1,0 +1,520 @@
+Initialize engine version: 4.6.0f3 (30840d631a27)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 560M  (ID=0x1251)
+    Vendor:   NVIDIA
+    VRAM:     1999 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\ChienSienLow\Desktop\December16\FullGame3D_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\ChienSienLow\Desktop\December16\FullGame3D_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\ChienSienLow\Desktop\December16\FullGame3D_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\ChienSienLow\Desktop\December16\FullGame3D_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\ChienSienLow\Desktop\December16\FullGame3D_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading C:\Users\ChienSienLow\Desktop\December16\FullGame3D_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\ChienSienLow\Desktop\December16\FullGame3D_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\ChienSienLow\Desktop\December16\FullGame3D_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Users\ChienSienLow\Desktop\December16\FullGame3D_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\ChienSienLow\Desktop\December16\FullGame3D_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\ChienSienLow\Desktop\December16\FullGame3D_Data\Managed\PathFinding.dll (this message is harmless)
+Loading C:\Users\ChienSienLow\Desktop\December16\FullGame3D_Data\Managed\PathFinding.dll into Unity Child Domain
+- Completed reload, in  0.049 seconds
+desktop: 1366x768 120Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+Platform assembly: C:\Users\ChienSienLow\Desktop\December16\FullGame3D_Data\Managed\System.Core.dll (this message is harmless)
+UnloadTime: 0.308364 ms
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 199.
+Total: 0.464179 ms (FindLiveObjects: 0.007464 ms CreateObjectMapping: 0.007930 ms MarkObjects: 0.087704 ms  DeleteObjects: 0.011196 ms)
+
+UnloadTime: 0.231389 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 195.
+Total: 0.435721 ms (FindLiveObjects: 0.007930 ms CreateObjectMapping: 0.007464 ms MarkObjects: 0.087704 ms  DeleteObjects: 0.007464 ms)
+
+UnloadTime: 0.325625 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 195.
+Total: 0.457647 ms (FindLiveObjects: 0.006531 ms CreateObjectMapping: 0.007464 ms MarkObjects: 0.104032 ms  DeleteObjects: 0.006997 ms)
+
+UnloadTime: 0.257980 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 195.
+Total: 0.447384 ms (FindLiveObjects: 0.006997 ms CreateObjectMapping: 0.006997 ms MarkObjects: 0.105898 ms  DeleteObjects: 0.007464 ms)
+
+Platform assembly: C:\Users\ChienSienLow\Desktop\December16\FullGame3D_Data\Managed\System.dll (this message is harmless)
+UnloadTime: 0.356414 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 2316.
+Total: 0.880307 ms (FindLiveObjects: 0.097967 ms CreateObjectMapping: 0.022859 ms MarkObjects: 0.260313 ms  DeleteObjects: 0.121293 ms)
+
+Failed to create agent because it is not close enough to the NavMesh
+ 
+(Filename:  Line: 648)
+
+Failed to create agent because it is not close enough to the NavMesh
+ 
+(Filename:  Line: 648)
+
+Failed to create agent because it is not close enough to the NavMesh
+ 
+(Filename:  Line: 648)
+
+Failed to create agent because it is not close enough to the NavMesh
+ 
+(Filename:  Line: 648)
+
+Failed to create agent because it is not close enough to the NavMesh
+ 
+(Filename:  Line: 648)
+
+Failed to create agent because it is not close enough to the NavMesh
+ 
+(Filename:  Line: 648)
+
+Failed to create agent because it is not close enough to the NavMesh
+ 
+(Filename:  Line: 648)
+
+Failed to create agent because it is not close enough to the NavMesh
+ 
+(Filename:  Line: 648)
+
+Failed to create agent because it is not close enough to the NavMesh
+ 
+(Filename:  Line: 648)
+
+Failed to create agent because it is not close enough to the NavMesh
+ 
+(Filename:  Line: 648)
+
+Failed to create agent because it is not close enough to the NavMesh
+ 
+(Filename:  Line: 648)
+
+Failed to create agent because it is not close enough to the NavMesh
+ 
+(Filename:  Line: 648)
+
+Failed to create agent because it is not close enough to the NavMesh
+ 
+(Filename:  Line: 648)
+
+Failed to create agent because it is not close enough to the NavMesh
+ 
+(Filename:  Line: 648)
+
+Failed to create agent because it is not close enough to the NavMesh
+ 
+(Filename:  Line: 648)
+
+Failed to create agent because it is not close enough to the NavMesh
+ 
+(Filename:  Line: 648)
+
+Failed to create agent because it is not close enough to the NavMesh
+ 
+(Filename:  Line: 648)
+
+Failed to create agent because it is not close enough to the NavMesh
+ 
+(Filename:  Line: 648)
+
+Failed to create agent because it is not close enough to the NavMesh
+ 
+(Filename:  Line: 648)
+
+Failed to create agent because it is not close enough to the NavMesh
+ 
+(Filename:  Line: 648)
+
+Failed to create agent because it is not close enough to the NavMesh
+ 
+(Filename:  Line: 648)
+
+Failed to create agent because it is not close enough to the NavMesh
+ 
+(Filename:  Line: 648)
+
+Failed to create agent because it is not close enough to the NavMesh
+ 
+(Filename:  Line: 648)
+
+Failed to create agent because it is not close enough to the NavMesh
+ 
+(Filename:  Line: 648)
+
+Failed to create agent because it is not close enough to the NavMesh
+ 
+(Filename:  Line: 648)
+
+Failed to create agent because it is not close enough to the NavMesh
+ 
+(Filename:  Line: 648)
+
+Failed to create agent because it is not close enough to the NavMesh
+ 
+(Filename:  Line: 648)
+
+Failed to create agent because it is not close enough to the NavMesh
+ 
+(Filename:  Line: 648)
+
+Failed to create agent because it is not close enough to the NavMesh
+ 
+(Filename:  Line: 648)
+
+Failed to create agent because it is not close enough to the NavMesh
+ 
+(Filename:  Line: 648)
+
+Failed to create agent because it is not close enough to the NavMesh
+ 
+(Filename:  Line: 648)
+
+Failed to create agent because it is not close enough to the NavMesh
+ 
+(Filename:  Line: 648)
+
+Failed to create agent because it is not close enough to the NavMesh
+ 
+(Filename:  Line: 648)
+
+Failed to create agent because it is not close enough to the NavMesh
+ 
+(Filename:  Line: 648)
+
+Failed to create agent because it is not close enough to the NavMesh
+ 
+(Filename:  Line: 648)
+
+Failed to create agent because it is not close enough to the NavMesh
+ 
+(Filename:  Line: 648)
+
+Failed to create agent because it is not close enough to the NavMesh
+ 
+(Filename:  Line: 648)
+
+Failed to create agent because it is not close enough to the NavMesh
+ 
+(Filename:  Line: 648)
+
+Failed to create agent because it is not close enough to the NavMesh
+ 
+(Filename:  Line: 648)
+
+Failed to create agent because it is not close enough to the NavMesh
+ 
+(Filename:  Line: 648)
+
+Failed to create agent because it is not close enough to the NavMesh
+ 
+(Filename:  Line: 648)
+
+Failed to create agent because it is not close enough to the NavMesh
+ 
+(Filename:  Line: 648)
+
+Failed to create agent because it is not close enough to the NavMesh
+ 
+(Filename:  Line: 648)
+
+Failed to create agent because it is not close enough to the NavMesh
+ 
+(Filename:  Line: 648)
+
+Failed to create agent because it is not close enough to the NavMesh
+ 
+(Filename:  Line: 648)
+
+Failed to create agent because it is not close enough to the NavMesh
+ 
+(Filename:  Line: 648)
+
+Failed to create agent because it is not close enough to the NavMesh
+ 
+(Filename:  Line: 648)
+
+Failed to create agent because it is not close enough to the NavMesh
+ 
+(Filename:  Line: 648)
+
+Failed to create agent because it is not close enough to the NavMesh
+ 
+(Filename:  Line: 648)
+
+Failed to create agent because it is not close enough to the NavMesh
+ 
+(Filename:  Line: 648)
+
+Failed to create agent because it is not close enough to the NavMesh
+ 
+(Filename:  Line: 648)
+
+Failed to create agent because it is not close enough to the NavMesh
+ 
+(Filename:  Line: 648)
+
+Failed to create agent because it is not close enough to the NavMesh
+ 
+(Filename:  Line: 648)
+
+Failed to create agent because it is not close enough to the NavMesh
+ 
+(Filename:  Line: 648)
+
+Failed to create agent because it is not close enough to the NavMesh
+ 
+(Filename:  Line: 648)
+
+Failed to create agent because it is not close enough to the NavMesh
+ 
+(Filename:  Line: 648)
+
+Failed to create agent because it is not close enough to the NavMesh
+ 
+(Filename:  Line: 648)
+
+Failed to create agent because it is not close enough to the NavMesh
+ 
+(Filename:  Line: 648)
+
+Failed to create agent because it is not close enough to the NavMesh
+ 
+(Filename:  Line: 648)
+
+Failed to create agent because it is not close enough to the NavMesh
+ 
+(Filename:  Line: 648)
+
+Failed to create agent because it is not close enough to the NavMesh
+ 
+(Filename:  Line: 648)
+
+Failed to create agent because it is not close enough to the NavMesh
+ 
+(Filename:  Line: 648)
+
+Failed to create agent because it is not close enough to the NavMesh
+ 
+(Filename:  Line: 648)
+
+Failed to create agent because it is not close enough to the NavMesh
+ 
+(Filename:  Line: 648)
+
+Failed to create agent because it is not close enough to the NavMesh
+ 
+(Filename:  Line: 648)
+
+Failed to create agent because it is not close enough to the NavMesh
+ 
+(Filename:  Line: 648)
+
+Failed to create agent because it is not close enough to the NavMesh
+ 
+(Filename:  Line: 648)
+
+Failed to create agent because it is not close enough to the NavMesh
+ 
+(Filename:  Line: 648)
+
+Failed to create agent because it is not close enough to the NavMesh
+ 
+(Filename:  Line: 648)
+
+ammo: 50ammoClip: 10
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Failed to create agent because it is not close enough to the NavMesh
+ 
+(Filename:  Line: 648)
+
+Failed to create agent because it is not close enough to the NavMesh
+ 
+(Filename:  Line: 648)
+
+Failed to create agent because it is not close enough to the NavMesh
+ 
+(Filename:  Line: 648)
+
+Failed to create agent because it is not close enough to the NavMesh
+ 
+(Filename:  Line: 648)
+
+Failed to create agent because it is not close enough to the NavMesh
+ 
+(Filename:  Line: 648)
+
+Failed to create agent because it is not close enough to the NavMesh
+ 
+(Filename:  Line: 648)
+
+UnloadTime: 17.582825 ms
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 971 unused Assets to reduce memory usage. Loaded Objects now: 441.
+Total: 3.693839 ms (FindLiveObjects: 0.046184 ms CreateObjectMapping: 0.099833 ms MarkObjects: 0.197800 ms  DeleteObjects: 2.915231 ms)
+
+UnloadTime: 1.119628 ms
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 858.
+Total: 6.161686 ms (FindLiveObjects: 0.030323 ms CreateObjectMapping: 0.014928 ms MarkObjects: 0.200133 ms  DeleteObjects: 5.558486 ms)
+
+UnloadTime: 1.668712 ms
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 32 unused Assets to reduce memory usage. Loaded Objects now: 446.
+Total: 1.453183 ms (FindLiveObjects: 0.016794 ms CreateObjectMapping: 0.013062 ms MarkObjects: 0.181473 ms  DeleteObjects: 0.837388 ms)
+
+UnloadTime: 1.166745 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 2325.
+Total: 1.007665 ms (FindLiveObjects: 0.112429 ms CreateObjectMapping: 0.025191 ms MarkObjects: 0.266378 ms  DeleteObjects: 0.249583 ms)
+
+Failed to create agent because it is not close enough to the NavMesh
+ 
+(Filename:  Line: 648)
+
+Failed to create agent because it is not close enough to the NavMesh
+ 
+(Filename:  Line: 648)
+
+Failed to create agent because it is not close enough to the NavMesh
+ 
+(Filename:  Line: 648)
+
+Failed to create agent because it is not close enough to the NavMesh
+ 
+(Filename:  Line: 648)
+
+Failed to create agent because it is not close enough to the NavMesh
+ 
+(Filename:  Line: 648)
+
+Failed to create agent because it is not close enough to the NavMesh
+ 
+(Filename:  Line: 648)
+
+Failed to create agent because it is not close enough to the NavMesh
+ 
+(Filename:  Line: 648)
+
+Failed to create agent because it is not close enough to the NavMesh
+ 
+(Filename:  Line: 648)
+
+Failed to create agent because it is not close enough to the NavMesh
+ 
+(Filename:  Line: 648)
+
+Failed to create agent because it is not close enough to the NavMesh
+ 
+(Filename:  Line: 648)
+
+Failed to create agent because it is not close enough to the NavMesh
+ 
+(Filename:  Line: 648)
+
+Failed to create agent because it is not close enough to the NavMesh
+ 
+(Filename:  Line: 648)
+
+Failed to create agent because it is not close enough to the NavMesh
+ 
+(Filename:  Line: 648)
+
+Failed to create agent because it is not close enough to the NavMesh
+ 
+(Filename:  Line: 648)
+
+Failed to create agent because it is not close enough to the NavMesh
+ 
+(Filename:  Line: 648)
+
+Failed to create agent because it is not close enough to the NavMesh
+ 
+(Filename:  Line: 648)
+
+Failed to create agent because it is not close enough to the NavMesh
+ 
+(Filename:  Line: 648)
+
+Failed to create agent because it is not close enough to the NavMesh
+ 
+(Filename:  Line: 648)
+
+Failed to create agent because it is not close enough to the NavMesh
+ 
+(Filename:  Line: 648)
+
+Failed to create agent because it is not close enough to the NavMesh
+ 
+(Filename:  Line: 648)
+
+Failed to create agent because it is not close enough to the NavMesh
+ 
+(Filename:  Line: 648)
+
+Failed to create agent because it is not close enough to the NavMesh
+ 
+(Filename:  Line: 648)
+
+Failed to create agent because it is not close enough to the NavMesh
+ 
+(Filename:  Line: 648)
+
+Failed to create agent because it is not close enough to the NavMesh
+ 
+(Filename:  Line: 648)
+
+Failed to create agent because it is not close enough to the NavMesh
+ 
+(Filename:  Line: 648)
+
+Failed to create agent because it is not close enough to the NavMesh
+ 
+(Filename:  Line: 648)
+
+Failed to create agent because it is not close enough to the NavMesh
+ 
+(Filename:  Line: 648)
+
+Failed to create agent because it is not close enough to the NavMesh
+ 
+(Filename:  Line: 648)
+
+Failed to create agent because it is not close enough to the NavMesh
+ 
+(Filename:  Line: 648)
+
+Failed to create agent because it is not close enough to the NavMesh
+ 
+(Filename:  Line: 648)
+
+Failed to create agent because it is not close enough to the NavMesh
+ 
+(Filename:  Line: 648)
+
+Failed to create agent because it is not close enough to the NavMesh
+ 
+(Filename:  Line: 648)
+
+Failed to create agent because it is not close enough to the NavMesh
+ 
+(Filename:  Line: 648)
+
+Failed to create agent because it is not close enough to the NavMesh
+ 
+(Filename:  Line: 648)
+

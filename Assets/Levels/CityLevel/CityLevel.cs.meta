@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 4f014a318b599e34bbe4e1a61a21f2f0
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - enemy: {instanceID: 0}
+  - citizen: {fileID: 100004, guid: a81229dc4fc0c4042b2a2da8151f2c5d, type: 2}
+  - blueCar: {instanceID: 0}
+  - redCar: {instanceID: 0}
+  - orangeCar: {instanceID: 0}
+  - capsule: {instanceID: 0}
+  - capsuleSpawn: {instanceID: 0}
+  - agentBob: {instanceID: 0}
+  - pos: {instanceID: 0}
+  - player: {instanceID: 0}
+  - playerPos1: {instanceID: 0}
+  - playerPos2: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

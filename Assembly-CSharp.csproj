@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+	<Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+	<Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+	<ProductVersion>10.0.20506</ProductVersion>
+	<SchemaVersion>2.0</SchemaVersion>
+	<ProjectGuid>{2213C580-8CF5-2938-EBA3-6276BB9D3B00}</ProjectGuid>
+	<OutputType>Library</OutputType>
+	<AppDesignerFolder>Properties</AppDesignerFolder>
+	<RootNamespace></RootNamespace>
+	<AssemblyName>Assembly-CSharp</AssemblyName>
+	<TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+	<FileAlignment>512</FileAlignment>
+	<BaseDirectory>Assets</BaseDirectory>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+	<DebugSymbols>true</DebugSymbols>
+	<DebugType>full</DebugType>
+	<Optimize>false</Optimize>
+	<OutputPath>Temp\bin\Debug\</OutputPath>
+	<DefineConstants>DEBUG;TRACE;UNITY_4_6_0;UNITY_4_6;UNITY_STANDALONE_WIN;ENABLE_MICROPHONE;ENABLE_TEXTUREID_MAP;ENABLE_UNITYEVENTS;ENABLE_NEW_HIERARCHY ;ENABLE_AUDIO_FMOD;UNITY_STANDALONE;ENABLE_MONO;ENABLE_TERRAIN;ENABLE_SUBSTANCE;ENABLE_GENERICS;INCLUDE_WP8SUPPORT;ENABLE_MOVIES;ENABLE_WWW;ENABLE_IMAGEEFFECTS;ENABLE_4_6_FEATURES;INCLUDE_WP_BLUE_SUPPORT;ENABLE_WEBCAM;INCLUDE_METROSUPPORT;RENDER_SOFTWARE_CURSOR;ENABLE_NETWORK;ENABLE_PHYSICS;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_2D_PHYSICS;ENABLE_SHADOWS;ENABLE_AUDIO;ENABLE_NAVMESH_CARVING;ENABLE_DUCK_TYPING;ENABLE_SINGLE_INSTANCE_BUILD_SETTING;ENABLE_PROFILER;UNITY_EDITOR;UNITY_EDITOR_WIN</DefineConstants>
+	<ErrorReport>prompt</ErrorReport>
+	<WarningLevel>4</WarningLevel>
+	<NoWarn>0169</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+	<DebugType>pdbonly</DebugType>
+	<Optimize>true</Optimize>
+	<OutputPath>Temp\bin\Release\</OutputPath>
+	<DefineConstants>TRACE</DefineConstants>
+	<ErrorReport>prompt</ErrorReport>
+	<WarningLevel>4</WarningLevel>
+	<NoWarn>0169</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+	<Reference Include="System" />
+    <Reference Include="System.XML" />
+	<Reference Include="System.Core" />
+	<Reference Include="System.Xml.Linq" />
+	<Reference Include="UnityEngine">
+	  <HintPath>D:/Program Files (x86)/Unity/Editor/Data/Managed/UnityEngine.dll</HintPath>
+	</Reference>
+	<Reference Include="UnityEditor">
+	  <HintPath>D:/Program Files (x86)/Unity/Editor/Data/Managed/UnityEditor.dll</HintPath>
+	</Reference>
+  </ItemGroup>
+  <ItemGroup>
+     <Compile Include="Assets\AggregatGames\Pathfinding\Sample\Player.cs" />
+     <Compile Include="Assets\AggregatGames\Pathfinding\Sample\TestScene.cs" />
+     <Compile Include="Assets\AggregatGames\Pathfinding\Sample\TestScene_old.cs" />
+     <Compile Include="Assets\AggregatGames\Pathfinding\Sample\specificObstacle.cs" />
+     <Compile Include="Assets\Blinking.cs" />
+     <Compile Include="Assets\CloseDoor.cs" />
+     <Compile Include="Assets\Levels\AgentBuilding\AgentBob.cs" />
+     <Compile Include="Assets\Levels\AgentBuilding\ExitBuilding.cs" />
+     <Compile Include="Assets\Levels\CityLevel\CarCount.cs" />
+     <Compile Include="Assets\Levels\CityLevel\CityLevel.cs" />
+     <Compile Include="Assets\Levels\Instructions\Fading.cs" />
+     <Compile Include="Assets\Levels\Instructions\Instruction.cs" />
+     <Compile Include="Assets\Levels\Level6\Level6Map.cs" />
+     <Compile Include="Assets\Levels\StartMenu\StartMenu.cs" />
+     <Compile Include="Assets\Levels\Story\Credits.cs" />
+     <Compile Include="Assets\Levels\Story\Credits2.cs" />
+     <Compile Include="Assets\Levels\Story\EDScripty1.cs" />
+     <Compile Include="Assets\Levels\Story\EDScripty2.cs" />
+     <Compile Include="Assets\Levels\Story\OPScript.cs" />
+     <Compile Include="Assets\Levels\Story\OPScript2.cs" />
+     <Compile Include="Assets\Levels\Story\OPScript3.cs" />
+     <Compile Include="Assets\Levels\Story\OPScript4.cs" />
+     <Compile Include="Assets\Levels\Survival Levels\SmallTown\EnemyCount.cs" />
+     <Compile Include="Assets\Levels\Survival Levels\SmallTown\SmallTown.cs" />
+     <Compile Include="Assets\MissionTable.cs" />
+     <Compile Include="Assets\Prefabs\AgentBob\StoryMission.cs" />
+     <Compile Include="Assets\Prefabs\AgentSteve\CoinCounter.cs" />
+     <Compile Include="Assets\Prefabs\Citizen\Citizen.cs" />
+     <Compile Include="Assets\Prefabs\Citizen\CityCitizenCount.cs" />
+     <Compile Include="Assets\Scripts\Used\BuildingScripts\EnterBuilding.cs" />
+     <Compile Include="Assets\Scripts\Used\BuildingScripts\EnterStore.cs" />
+     <Compile Include="Assets\Scripts\Used\CameraScripts\GameCamera.cs" />
+     <Compile Include="Assets\Scripts\Used\CameraScripts\MiniMapCamera.cs" />
+     <Compile Include="Assets\Scripts\Used\CameraScripts\MissionMusic.cs" />
+     <Compile Include="Assets\Scripts\Used\CarScripts\CarCamera.cs" />
+     <Compile Include="Assets\Scripts\Used\CarScripts\CarDown.cs" />
+     <Compile Include="Assets\Scripts\Used\CarScripts\CarLeft.cs" />
+     <Compile Include="Assets\Scripts\Used\CarScripts\CarMiniMapCam.cs" />
+     <Compile Include="Assets\Scripts\Used\CarScripts\CarNPC.cs" />
+     <Compile Include="Assets\Scripts\Used\CarScripts\CarRight.cs" />
+     <Compile Include="Assets\Scripts\Used\CarScripts\CarUp.cs" />
+     <Compile Include="Assets\Scripts\Used\CarScripts\EnableDriving.cs" />
+     <Compile Include="Assets\Scripts\Used\CarScripts\PlayerDriving.cs" />
+     <Compile Include="Assets\Scripts\Used\DestroyBullets.cs" />
+     <Compile Include="Assets\Scripts\Used\DestroyParticles.cs" />
+     <Compile Include="Assets\Scripts\Used\EnemyAI\Chase\FastChase.cs" />
+     <Compile Include="Assets\Scripts\Used\EnemyAI\Chase\NormalChase.cs" />
+     <Compile Include="Assets\Scripts\Used\EnemyAI\Chase\SlowChase.cs" />
+     <Compile Include="Assets\Scripts\Used\EnemyAI\EnemyController.cs" />
+     <Compile Include="Assets\Scripts\Used\EnemyAI\EnemyGun.cs" />
+     <Compile Include="Assets\Scripts\Used\EnemyAI\FastEnemy.cs" />
+     <Compile Include="Assets\Scripts\Used\EnemyAI\SlowEnemy.cs" />
+     <Compile Include="Assets\Scripts\Used\ItemScripts\AmmoIncrease.cs" />
+     <Compile Include="Assets\Scripts\Used\ItemScripts\Capsule.cs" />
+     <Compile Include="Assets\Scripts\Used\ItemScripts\CoinScript.cs" />
+     <Compile Include="Assets\Scripts\Used\ItemScripts\EndLevel.cs" />
+     <Compile Include="Assets\Scripts\Used\ItemScripts\MaxHealthIncrease.cs" />
+     <Compile Include="Assets\Scripts\Used\ItemScripts\TripMine.cs" />
+     <Compile Include="Assets\Scripts\Used\ItemScripts\TripMineExplode.cs" />
+     <Compile Include="Assets\Scripts\Used\ItemScripts\TripMineIncrease.cs" />
+     <Compile Include="Assets\Scripts\Used\ItemScripts\TripMineTrigger.cs" />
+     <Compile Include="Assets\Scripts\Used\PlayerActions.cs" />
+     <Compile Include="Assets\Scripts\Used\PlayerGun.cs" />
+     <Compile Include="Assets\Scripts\practiceScripts\Standard Assets\Character Controllers\Sources\Scripts\MouseLook.cs" />
+     <Compile Include="Assets\TestingGrounds\CityStore\MerchantTable.cs" />
+     <None Include="Assets\Standard Assets\Toon Shading\Sources\Shaders\Toony-Basic.shader" />
+     <None Include="Assets\Standard Assets\Toon Shading\Sources\Shaders\Toony-BasicOutline.shader" />
+     <None Include="Assets\Standard Assets\Toon Shading\Sources\Shaders\Toony-LightedOutline.shader" />
+     <None Include="Assets\Standard Assets\Toon Shading\Sources\Shaders\Toony-Lighted.shader" />
+ <Reference Include="UnityEngine.UI">
+ <HintPath>D:/Program Files (x86)/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/4.6.0/UnityEngine.UI.dll</HintPath>
+ </Reference>
+ <Reference Include="PathFinding">
+ <HintPath>C:/Users/ChienSienLow/Desktop/December16/Assets/AggregatGames/Pathfinding/Plugins/PathFinding.dll</HintPath>
+ </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="Assembly-UnityScript-firstpass.unityproj">
+      <Project>{F573E794-3115-2928-F475-A48BE4A1997B}</Project>      <Name>Assembly-UnityScript-firstpass</Name>    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+	   Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  
+</Project>

@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 74a47765cb6fab8468ac49eaaa75dd89
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - healthTransform: {instanceID: 0}
+  - healthText: {instanceID: 0}
+  - visualHealth: {instanceID: 0}
+  - Bullets: {instanceID: 0}
+  - TrapMine: {instanceID: 0}
+  - playerCar: {instanceID: 0}
+  - deathExplosion: {instanceID: 0}
+  - gun: {instanceID: 0}
+  - PlayerBody: {instanceID: 0}
+  - PlayerHealth: {instanceID: 0}
+  - objectiveText: {instanceID: 0}
+  - controls: {fileID: 2800000, guid: 3846c9e21e73d0445919523a47c1b388, type: 3}
+  - gunShot: {instanceID: 0}
+  - reload: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
